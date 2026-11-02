@@ -1,0 +1,38 @@
+RBN CP (Reborn CarPlay)
+Copyright (c) 2026 reborn. Все права защищены. All rights reserved.
+
+Лицензионное соглашение
+
+1. RBN CP — закрытая разработка reborn. Исходный код не публикуется и не передаётся.
+
+2. Вы можете бесплатно скачать RBN CP с официальной страницы
+   https://github.com/reborn067/rbn-cp-releases, установить его и пользоваться им
+   в Euro Truck Simulator 2 на своём компьютере.
+
+3. Без письменного разрешения автора запрещено:
+   - изменять файлы RBN CP, в том числе менять в них тексты, названия и значки;
+   - разбирать, декомпилировать и дизассемблировать их, а также иначе
+     восстанавливать исходный код;
+   - использовать файлы RBN CP или их части в своих модах, плагинах и программах,
+     в том числе загружать carplay.dll из другого плагина;
+   - выдавать RBN CP или его части за свою работу;
+   - выкладывать, продавать и распространять RBN CP где-либо, кроме официальной
+     страницы. Делиться ссылкой на официальную страницу можно.
+
+4. RBN CP предоставляется «как есть», без каких-либо гарантий. Автор не отвечает
+   за последствия его использования.
+
+5. Euro Truck Simulator 2 — товарный знак SCS Software. Названия музыкальных
+   сервисов принадлежат их владельцам. RBN CP не связан с ними и с Apple.
+
+---
+
+License agreement (English summary)
+
+RBN CP is closed-source software by reborn. You may download it free of charge from
+https://github.com/reborn067/rbn-cp-releases, install it and use it with Euro Truck
+Simulator 2 on your own computer. Without the author's written permission you may not
+modify its files, reverse engineer, decompile or disassemble them, use them or any part
+of them in your own mods, plugins or programs (including loading carplay.dll from another
+plugin), present them as your own work, or redistribute them anywhere other than the
+official page. Provided "as is", without warranty of any kind.
