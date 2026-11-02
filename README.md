@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="docs/cab-apps.png" width="49%" alt="Главный экран RBN CP в кабине">
-  <img src="docs/cab-map-styles.png" width="49%" alt="Оформления карты">
+  <img src="docs/cab-trip.png" width="49%" alt="Поездка: данные грузовика">
 </p>
 
 ## ⬇️ Установка
@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="docs/setup-game.png" width="49%" alt="Установщик нашёл игру">
-  <img src="docs/setup-done.png" width="49%" alt="Плагин установлен">
+  <img src="docs/setup-done.png" width="49%" alt="Установка завершена">
 </p>
 
 > **Windows может предупредить «Система Windows защитила ваш компьютер».** Установщик пока не подписан сертификатом, поэтому SmartScreen его не знает. Нажми **Подробнее → Выполнить в любом случае**.
